@@ -29,6 +29,6 @@ public class Blog {
     protected void onCreate() {
         createdAt = LocalDateTime.now();
     }
-
+    kjACANCCCCNJCNJCAJ
     // Getters và Setters
 }
